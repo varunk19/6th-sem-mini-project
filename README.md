@@ -8,3 +8,5 @@ But the app is around 90% perfect. The rest 10% coudn't be achieved due to lack 
 
 The code consists of multiple classes and can be found in the following directory:
 app/src/main/java/com/varun/propertyguidance
+
+To install the app download the app-release.apk file
